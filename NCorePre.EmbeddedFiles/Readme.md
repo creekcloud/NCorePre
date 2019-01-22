@@ -18,7 +18,7 @@ asp.net core下用`File Providers`访问抽象文件文件系统，如`IHostingE
 
  <ItemGroup>
     <EmbeddedResource Include="Images/*.*" />
-</ItemGroup>
+</ItemGroup>  
 支持通配符
 
 #strtup，加入下列代码
